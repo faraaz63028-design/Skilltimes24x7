@@ -1,0 +1,6 @@
+{
+  "name": "SkillTimes24x7",
+  "description": "SkillTimes24x7 - Har Khabar, Sabse Pehle. Breaking news, Hyderabad, Telangana, national, international, crime, politics, business, and video updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
